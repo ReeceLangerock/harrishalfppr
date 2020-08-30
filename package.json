@@ -1,0 +1,19 @@
+{
+  "name": "harris-half-ppr",
+  "version": "1.0.0",
+  "description": "chrome extension to generate half-point PPR rankings for RB, WR and Top 200 on HarrisFootball.com",
+  "main": "harris.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReeceLangerock/harrishalfppr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReeceLangerock/harrishalfppr/issues"
+  },
+  "homepage": "https://github.com/ReeceLangerock/harrishalfppr#readme"
+}
